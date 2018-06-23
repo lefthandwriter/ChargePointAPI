@@ -2,7 +2,10 @@
 Esther Ling, 2018
 
 ## Overview
-This is a script to pull usage data from ChargePoint API and save it into an SQL database.
+This is a script to pull usage data from ChargePoint API and save it into an SQL database. 
+
+## BlogPost
+https://lefthandwriter.github.io/software/2018/06/22/Designing-EV-Database.html
 
 ## Instructions
 1. Insert your organization's username and password in the main() function.
@@ -17,8 +20,8 @@ The database schema can be found in a Google Slide (here)[https://docs.google.co
 (Todo: populate the Notebooks folder with a Jupyter notebook)
 
 ## Package Dependencies
-1. zeep
-2. sqlite3
+1. [Zeep](https://github.com/mvantellingen/python-zeep)
+2. [Sqlite3](https://docs.python.org/2/library/sqlite3.html)
 
 ## ChargePoint API Doc
 https://na.chargepoint.com/UI/downloads/en/ChargePoint_Web_Services_API_Guide_Ver4.1_Rev4.pdf
