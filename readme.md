@@ -17,7 +17,7 @@ https://lefthandwriter.github.io/software/2018/06/22/Designing-EV-Database.html
 The database schema can be found in a Google Slide (here)[https://docs.google.com/presentation/d/1P1bULtDGcgMSYChIWzFjT7LfT-BbQs-qWxjKsioeGKc/edit?usp=sharing].
 
 ## Example
-(Todo: populate the Notebooks folder with a Jupyter notebook)
+See Notebooks folder for an Exploratory Jupyter notebook. I was making use of plotnine, a Python package that is built to mimic ggplot (R).
 
 ## Package Dependencies
 1. [Zeep](https://github.com/mvantellingen/python-zeep)
